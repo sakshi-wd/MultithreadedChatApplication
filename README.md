@@ -48,5 +48,6 @@ This project is a foundational implementation of a multi-client chat system in J
 Through this hands-on experience, I gained deeper insight into how real-world chat applications operate behind the scenes — from establishing server connections and handling concurrent users, to broadcasting messages and maintaining seamless communication.
 This project not only demonstrates core programming concepts but also strengthens problem-solving skills by dealing with real-time inputs, connection issues, and stream handling. It's simple yet powerful enough to evolve into a full-fledged messaging platform with additional features like GUI, authentication, encryption, and chat rooms.
 
-
+# Output 
+<img width="1298" height="2053" alt="Image" src="https://github.com/user-attachments/assets/a9a06708-07de-4b81-ad15-4a2ec3ff2ca2" />
 
