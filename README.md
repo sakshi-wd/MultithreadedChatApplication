@@ -1,10 +1,15 @@
 # MultithreadedChatApplication
 
 **COMPANY**: CODTECH IT SOLUTIONS
+
 **NAME**:SAKSHI SWAMI
+
 **INTERN ID**: CT04DH328
+
 **DOMAIN**:JAVA PROGRAMMING
+
 **DURATION**: 4 WEEKS
+
 **MENTOR**: NEELA SANTOSH
 
 ## Description ##
